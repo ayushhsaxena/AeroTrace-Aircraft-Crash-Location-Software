@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+/** @type {import('next').NextConfig} this command is used to import the api */
 const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
