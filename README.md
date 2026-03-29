@@ -155,27 +155,4 @@ The application will be available at `http://localhost:3000` by default.
 
 ---
 
-## Team
-
-| Name | Role |
-|---|---|
-| Ayush Saxena | Project Lead & ML Engineer |
-| *(Add teammates)* | *(Role)* |
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgements
-
-- [OpenSky Network](https://opensky-network.org/) for open-access flight data
-- The open-source machine learning community (Scikit-learn, Pandas, NumPy)
-- Aviation safety research institutions and incident databases
-
----
-
 > *AeroTracer — Predictive intelligence for a safer sky.*
