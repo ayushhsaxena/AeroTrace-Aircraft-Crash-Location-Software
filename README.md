@@ -6,9 +6,9 @@
 
 ## Overview
 
-AeroTracer is an intelligent aviation safety platform designed to predict probable aircraft crash zones by synthesizing real-time and historical flight data with environmental and terrain variables. The system applies supervised machine learning to parameters such as altitude, airspeed, weather conditions, fuel status, and terrain topology, enabling aviation authorities and rescue teams to make faster, data-driven decisions during critical incidents.
+AeroTracer is an intelligent aviation safety platform designed to predict probable aircraft crash zones by integrating real-time and historical flight data with environmental and terrain variables. The system leverages supervised machine learning techniques on key parameters such as altitude, airspeed, weather conditions, fuel status, and terrain topology to generate accurate risk assessments. This enables aviation authorities and emergency response teams to make faster, data-driven decisions during critical situations.
 
-A dedicated research focus on **radome-related failure analysis** distinguishes AeroTracer from conventional flight-tracking solutions, offering a deeper investigation into hardware anomalies and their correlation with crash risk.
+A key differentiator of AeroTracer is its dedicated focus on radome-related failure analysis. Unlike conventional flight-tracking systems, AeroTracer investigates potential hardware anomalies—particularly radome degradation or damage—and examines their correlation with increased crash risk. This deeper analytical capability enhances predictive accuracy and contributes to improved aviation safety outcomes.
 
 ---
 
