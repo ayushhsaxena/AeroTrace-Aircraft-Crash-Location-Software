@@ -145,14 +145,4 @@ The application will be available at `http://localhost:3000` by default.
 
 ---
 
-## Roadmap
-
-- [ ] **Deep Learning Integration** — LSTM models for time-series flight anomaly detection
-- [ ] **Real-Time Alert System** — Push notifications for high-risk flight events
-- [ ] **Aviation Authority Integration** — API endpoints for regulatory body access
-- [ ] **3D Crash Zone Visualization** — Spatial rendering of predicted impact areas
-- [ ] **AI Aviation Assistant** — Natural language interface for analyst queries
-
----
-
 > *AeroTracer — Predictive intelligence for a safer sky.*
