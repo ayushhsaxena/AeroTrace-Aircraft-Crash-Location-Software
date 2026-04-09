@@ -1,6 +1,6 @@
 # AeroTracer — Aircraft Crash Prediction System
 
-> **Bridging aviation data and predictive intelligence to enhance safety and accelerate emergency response.**
+> **Bridging aviation data and predictive intelligence to enhance safety and accelerate emergency response.
 
 ---
 
