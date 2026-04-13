@@ -19,7 +19,7 @@ A key differentiator of AeroTracer is its dedicated focus on radome-related fail
 - Reduce emergency response time through actionable predictive insights
 - Advance aviation safety standards through data-driven analysis
 
----
+
 
 ## Key Features
 
