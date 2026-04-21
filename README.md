@@ -10,7 +10,7 @@ AeroTracer is an intelligent aviation safety platform designed to predict probab
 
 A key differentiator of AeroTracer is its dedicated focus on radome-related failure analysis. Unlike conventional flight-tracking systems, AeroTracer investigates potential hardware anomalies—particularly radome degradation or damage—and examines their increased crash risk. This deeper analytical capability enhances predictive accuracy and contributes to improved aviation safety outcomes.
 
----
+
 
 ## Objectives
 
